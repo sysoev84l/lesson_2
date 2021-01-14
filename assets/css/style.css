@@ -1,0 +1,38 @@
+h1 {
+	color: #f00;
+	font-size: 64px;
+}
+.subtitle {
+	color: #fff;
+	background-color: #00f;
+	width: 200px;
+	font-size: 30px;
+	line-height: 1.5;
+	margin-bottom: 150px;
+}
+span {
+	color: #f00;
+}
+h2 {
+	color: #fff;
+	background-color: green;
+	padding: 5px 0;
+	vertical-align: middle;
+}
+.can {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	height: 150px;
+	padding-left: 40px;
+}
+li {
+	border: 1px solid #000;
+	font-size: 20px;
+}
+.title-form {
+	padding-left: 80px;
+}
