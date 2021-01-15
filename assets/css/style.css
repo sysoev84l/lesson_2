@@ -1,17 +1,16 @@
 body {
-	margin: 12px;
+	margin: 10px;
 }
 h1 {
 	padding: 6px;
 	color: #f00;
 	font-size: 64px;
 }
-.subtitle {
+.description {
 	color: #fff;
 	background-color: #00f;
 	width: 200px;
 	font-size: 30px;
-	/*line-height: 1.5;*/
 	margin-bottom: 190px;
 }
 span {
